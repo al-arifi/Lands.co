@@ -1,89 +1,89 @@
 @font-face {
     font-family: Inter-ExtraLight;
-    src: url("./inter/Inter-ExtraLight-BETA.ttf");
+    src: url("./fonts/inter/Inter-ExtraLight-BETA.ttf");
 }
 
 @font-face {
     font-family: Inter-Light;
-    src: url("./inter/Inter-Light-BETA.ttf");
+    src: url("./fonts/inter/Inter-Light-BETA.ttf");
 }
 
 @font-face {
     font-family: Inter-Thin ;
-    src: url("./inter/Inter-Thin-BETA.ttf");
+    src: url("./fonts/inter/Inter-Thin-BETA.ttf");
 }
 
 @font-face {
     font-family: Inter-Regular;
-    src: url("./inter/Inter-Regular.ttf");
+    src: url("./fonts/inter/Inter-Regular.ttf");
 }
 
 @font-face {
     font-family: Inter-Medium;
-    src: url("./inter/Inter-Medium.ttf");
+    src: url("./fonts/inter/Inter-Medium.ttf");
 }
 
 @font-face {
     font-family: Inter-Black;
-    src: url("./inter/Inter-Black.ttf");
+    src: url("./fonts/inter/Inter-Black.ttf");
 }
 
 @font-face {
     font-family: Inter-SemiBold;
-    src: url("./inter/Inter-SemiBold.ttf");
+    src: url("./fonts/inter/Inter-SemiBold.ttf");
 }
 
 @font-face {
     font-family:Inter-Bold ;
-    src: url("./inter/Inter-Bold.ttf");
+    src: url("./fonts/inter/Inter-Bold.ttf");
 }
 
 @font-face {
     font-family: Inter-ExtraBold;
-    src: url("./inter/Inter-ExtraBold.ttf");
+    src: url("./fonts/inter/Inter-ExtraBold.ttf");
 }
 
 @font-face {
     font-family:Inter-ExtraLightItalic ;
-    src: url("./inter/Inter-ExtraLightItalic-BETA.ttf");
+    src: url("./fonts/inter/Inter-ExtraLightItalic-BETA.ttf");
 }
 
 @font-face {
     font-family: Inter-LightItalic;
-    src: url("./inter/Inter-LightItalic-BETA.ttf");
+    src: url("./fonts/inter/Inter-LightItalic-BETA.ttf");
 }
 
 @font-face {
     font-family: Inter-ThinItalic;
-    src: url("./inter/Inter-ThinItalic-BETA.ttf");
+    src: url("./fonts/inter/Inter-ThinItalic-BETA.ttf");
 }
 
 @font-face {
     font-family: Inter-Italic;
-    src: url("./inter/Inter-Italic.ttf");
+    src: url("./fonts/inter/Inter-Italic.ttf");
 }
 
 @font-face {
     font-family: Inter-MediumItalic;
-    src: url("./inter/Inter-MediumItalic.ttf");
+    src: url("./fonts/inter/Inter-MediumItalic.ttf");
 }
 
 @font-face {
     font-family: Inter-BlackItalic;
-    src: url("./inter/Inter-UI-BlackItalic.ttf");
+    src: url("./fonts/inter/Inter-UI-BlackItalic.ttf");
 }
 
 @font-face {
     font-family: Inter-SemiBoldItalic;
-    src: url("./inter/Inter-SemiBoldItalic.ttf");
+    src: url("./fonts/inter/Inter-SemiBoldItalic.ttf");
 }
 
 @font-face {
     font-family: Inter-BoldItalic;
-    src: url("./inter/Inter-BoldItalic.ttf");
+    src: url("./fonts/inter/Inter-BoldItalic.ttf");
 }
 
 @font-face {
     font-family: Inter-ExtraBoldItalic;
-    src: url("./inter/Inter-ExtraBoldItalic.ttf");
+    src: url("./fonts/inter/Inter-ExtraBoldItalic.ttf");
 }
